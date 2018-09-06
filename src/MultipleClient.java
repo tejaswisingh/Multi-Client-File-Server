@@ -1,5 +1,3 @@
-// Name - Tejaswi Singh , Student Id - 1001387430 
-
 // Importing the required packages 
 import java.awt.BorderLayout;
 import java.awt.Insets;
