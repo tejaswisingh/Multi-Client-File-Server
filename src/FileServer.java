@@ -1,6 +1,3 @@
-
-
-
 // Importing the required packages 
 import java.awt.TextArea;
 import java.io.DataInputStream;
